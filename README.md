@@ -1,2 +1,4 @@
 # Web-Development-Test
-Using PHP and openweathermap API
+Using PHP and weather get from openweathermap API where the city selected
+
+
